@@ -28,3 +28,13 @@
   content: "";
   padding: 0;
 }
+
+.trainer > img {
+  width: auto;
+  height: 150px;
+  float: bottom;
+}
+
+.trainer > label {
+  float: left;
+}

@@ -1,9 +1,7 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "personal-trainer",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
-  "license": "MIT",
+  "homepage": "https://github.com/nettle89/personal-trainer",
   "private": true,
   "dependencies": {
     "angular": "~1.4.0",
